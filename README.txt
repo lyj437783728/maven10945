@@ -1,0 +1,3 @@
+这是两个通过maven创建的项目，
+test1为webapp
+test2为普通java项目
